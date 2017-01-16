@@ -35,7 +35,7 @@ last_name = 'Singh'
 email = 'sing0678@algonquinlive.com'
 output = "My name is " + first_name + " " + last_name + ". You can contact me at " + email + ".";
 
-console.log(output);
+alert(output);
 
 
 /********************* Task 3   ***********************/
